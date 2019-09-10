@@ -1,0 +1,36 @@
+.containerflex {
+	margin: auto;
+	font-family: sans-serif;
+	line-height: 1.5;
+}
+
+.flex-grid {
+	color: white;
+	display: flex;
+	margin: auto;
+}
+
+.col1 {
+	
+	background-color: white;
+	margin-left: 0.5rem;
+	/* margin-right: 0.5rem; */
+	/* padding: 1rem; */
+	padding-bottom: 0;
+}
+
+.sidebar1 {
+	margin: 0;
+	padding: 15;
+	padding-bottom:0;
+	padding-top: 0;
+	flex: 1;
+}
+
+.main {
+	flex: 3;
+}
+.la-table {
+	white-space: nowrap;
+    font-size: 13px;
+}
